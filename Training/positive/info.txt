@@ -1,0 +1,5 @@
+rawdata/1.bmp 1 20 18 177 190
+rawdata/2.bmp 1 19 13 163 204
+rawdata/3.bmp 1 5 11 194 206
+rawdata/4.bmp 1 19 20 165 189
+rawdata/5.bmp 1 23 23 168 189

@@ -1,0 +1,1 @@
+C:\opencv\build\x64\vc11\bin\opencv_traincascade.exe -data ahm -vec sample.vec -bg nn.txt -numStages 3 -miniHitRate 0.999 -maxFalseAlarmRate 0.5 -numPos 5 -numNeg 10 -w 24 -h 24 -mode ALL -precalcValBufSize 256 -precalcldxBufSize 256 

@@ -1,0 +1,1 @@
+for /F "delims=" %%j in (negative.txt) do echo.C:\Users\userr\Desktop\Haartraining Stuff\img\negative\%%j >> nn.txt

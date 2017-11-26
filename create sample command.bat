@@ -1,0 +1,1 @@
+C:\opencv\build\x64\vc11\bin\opencv_createsamples.exe  -vec sample.vec 

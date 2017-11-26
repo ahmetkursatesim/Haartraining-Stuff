@@ -1,0 +1,1 @@
+C:\opencv\build\x64\vc11\bin\opencv_createsamples.exe  -info positive\info.txt -vec sample.vec -num 5 -w 24 -h 24 PAUSE
